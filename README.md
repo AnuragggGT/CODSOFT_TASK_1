@@ -25,3 +25,7 @@ The project provides a simple and user-friendly way to manage, update, and track
 
 • JSON (for local data storage)
 
+✍️ Author:
+Anurag Tiwari
+Internship Project – Virtual Summer Internship (June 2025)
+🏢 CodSoft
